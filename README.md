@@ -1,1 +1,3 @@
-# iic2154-evdiagnostica
+# Evaluación diagnóstica 
+Andrea Ortiz
+
